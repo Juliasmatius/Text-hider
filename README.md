@@ -1,4 +1,14 @@
 # Text-hider
+[![Auto Compile and Release](https://github.com/Juliasmatius/Text-hider/actions/workflows/go.yml/badge.svg)](https://github.com/Juliasmatius/Text-hider/actions/workflows/go.yml)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/Juliamatius/Text-hider)
+![GitHub contributors](https://img.shields.io/github/contributors/Juliasmatius/Text-hider)
+![Depfu](https://img.shields.io/depfu/dependencies/github/Juliasmatius%2FText-hider)
+![GitHub all releases](https://img.shields.io/github/downloads/Juliasmatius/Text-hider/total)
+![GitHub issues](https://img.shields.io/github/issues/Juliasmatius/Text-hider)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Juliasmatius/Text-hider)
+![GitHub forks](https://img.shields.io/github/forks/Juliasmatius/Text-hider)
+
+
 Hide text inside all* files.
 *All binary files. No xml or json etc.\
 This work is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)\
