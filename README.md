@@ -9,7 +9,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/Juliasmatius/Text-hider)
 
 
-Hide text inside all* files.
+Hide text inside all* files.\
 *All binary files. No xml or json etc.\
 This work is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)\
 \
