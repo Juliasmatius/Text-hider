@@ -33,4 +33,4 @@ jobs:
        path: |
         dist
         !dist/**/*.md
-
+        .
