@@ -1,6 +1,9 @@
 # Text-hider
 Hide text inside all* files.
 *All binary files. No xml or json etc.
+# Demo
+1. Download hardcoded.go and demo.png
+2. Run hardcoded.go with ```go run hardcoded.go```
 ## Setup
 0. Get a binary file
 1. Open it in a hex editor. A good one is [hexed.it](https://hexed.it/)
