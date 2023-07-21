@@ -7,7 +7,7 @@ Hide text inside all* files.
 2. Make your way into the end of the file. Add you hex pattern on a new line. Hex pattern can be any hex string, this is basically your key for the script.
 3. Add text in hex. Turn your text into hex and add that to end of the file on a new line after the hex pattern. Good converter is [asciitohex.com](https://www.asciitohex.com/).
 4. Save
-5. Pick if you're using the hardcoded or argument based version. For hardcoded head over to [link1](example.com). For argument based [link2](example.net)
+5. Pick if you're using the hardcoded or argument based version. For hardcoded head over to [Hardcoded](https://github.com/Juliasmatius/Text-hider#hardcoded). For argument based [argument based](https://github.com/Juliasmatius/Text-hider#argument-based)
 
 ## Hardcoded
 6. Open the code
