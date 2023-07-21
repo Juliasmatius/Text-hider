@@ -10,11 +10,11 @@ Hide text inside all* files.
 5. Pick if you're using the hardcoded or argument based version. For hardcoded head over to [hardcoded](https://github.com/Juliasmatius/Text-hider#hardcoded). For argument based [argument based](https://github.com/Juliasmatius/Text-hider#argument-based)
 
 ## Hardcoded
-6. Open the code
+6. Open the harcoded.go
 7. On line 40 replace "0affffffafafafcd" with your hex pattern.
 8. On line 41 replace "demo.png" with your filename.
-9. (Optional) Compile the code with ```go build -ldflags "-H=windowsgui" main.go```.
-10. To run uncompiled ```go run main.go``` and when compiled just launch the executable.
+9. (Optional) Compile the code with ```go build -ldflags "-H=windowsgui" hardcoded.go```.
+10. To run uncompiled ```go run hardcoded.go``` and when compiled just launch the executable.
 
 ## Argument based
 6. (Optional) Compile the code with ```go build -ldflags "-H=windowsgui" main.go```.
