@@ -1,6 +1,7 @@
 # Text-hider
 Hide text inside all* files.
 *All binary files. No xml or json etc.
+This work is licensed under (Attribution-NonCommercial-ShareAlike 4.0 International)[https://creativecommons.org/licenses/by-nc-sa/4.0/]
 # Demo
 1. Download hardcoded.go and demo.png
 2. Run hardcoded.go with ```go run hardcoded.go```
