@@ -20,7 +20,7 @@ jobs:
       - name: Build Go binary
         run: |
           env GOOS=windows GOARCH=386 go build -ldflags "-H=windowsgui" -o argbased.exe main.go
-          mv myapp.exe ${{ env.BUILD_DIR }}/myapp.exe
+          mv argbased.exe ${{ env.BUILD_DIR }}/argbased.exe
         env:
           BUILD_DIR: ${{ github.workspace }}
 
