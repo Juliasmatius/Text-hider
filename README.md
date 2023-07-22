@@ -29,9 +29,9 @@ For commercial purposes send me an email [texthider@julimiro.eu.org](mailto:text
 6. Open the harcoded.go
 7. On line 40 replace "0affffffafafafcd" with your hex pattern.
 8. On line 41 replace "demo.png" with your filename.
-9. (Optional) Compile the code with ```go build -ldflags "-H=windowsgui" hardcoded.go```.
+9. (Optional) Compile the code with ```go build -ldflags "-H=windowsgui" hardcoded.go```. Make sure to set enviroment variables GOOS=windows GOARCH=386
 10. To run uncompiled ```go run hardcoded.go``` and when compiled just launch the executable.
 
 ## Argument based
-6. (Optional) Compile the code with ```go build -ldflags "-H=windowsgui" main.go```.
+6. (Optional) Compile the code with ```go build -ldflags "-H=windowsgui" main.go```. Make sure to set enviroment variables GOOS=windows GOARCH=386
 7. For uncompiled extraction command is ```go run main.go <hex pattern> <filename>``` and for compiled it's ```main.exe <hex pattern> <filename>```.
